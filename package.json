@@ -1,0 +1,23 @@
+{
+  "name": "portfolio_fadlyy",
+  "version": "1.0.0",
+  "description": "portfolio website fadly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fadlyyyy/portfolio_fadlyy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fadlyyyy/portfolio_fadlyy/issues"
+  },
+  "homepage": "https://github.com/Fadlyyyy/portfolio_fadlyy#readme",
+  "keywords": [],
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
